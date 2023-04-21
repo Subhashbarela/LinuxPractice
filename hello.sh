@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "hello world"
-echo "good evening "
+echo "good night "
